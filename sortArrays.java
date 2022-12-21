@@ -13,6 +13,9 @@ public class SortArrays {
 		
 		Arrays.sort(names);
 		System.out.println(Arrays.toString(names));
+        
+        System.out.println(" person 2 added new line");
+        System.out.println("array is not sorting");
 		
 	}
 }
